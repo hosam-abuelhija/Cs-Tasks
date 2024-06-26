@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Test\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\Task_1\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74AF4FDE-A440-4BD7-800B-92E8B444A211}|Test\\Test.csproj|c:\\users\\orange\\source\\repos\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74AF4FDE-A440-4BD7-800B-92E8B444A211}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74AF4FDE-A440-4BD7-800B-92E8B444A211}|Test\\Cs task 1.csproj|c:\\users\\orange\\desktop\\c#\\cs-tasks\\task_1\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AF4FDE-A440-4BD7-800B-92E8B444A211}|Test\\Cs task 1.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Test\\Test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\Task_1\\Test\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Test\\Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\Task_1\\Test\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAqAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T11:18:24.848Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

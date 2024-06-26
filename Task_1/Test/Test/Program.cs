@@ -27,7 +27,7 @@ namespace Test
             //Console.WriteLine(Console.ReadLine());
 
             //task 2
-            // a. Double
+            // a.Double
             //double doubleVariable = 17.4;
             //Console.WriteLine(doubleVariable);
             //// b. String
@@ -104,6 +104,7 @@ namespace Test
             //nums[2] = int.Parse(Console.ReadLine());
             //int sumNums = nums[0] + nums[1] + nums[2];
             //Console.WriteLine("Sum of all elements stored in the array is: " + sumNums);
+
 
 
 
