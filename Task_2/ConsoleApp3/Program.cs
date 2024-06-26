@@ -74,8 +74,24 @@ namespace Task_2
             //Console.WriteLine($"{hours} Hours, {minutes} Minutes");
 
             //Task 8
+            string[] sentences = {
+                "BBQ sauce is the best invintion humans ever made",
+                "Hello",
+                "pink floyed is the greatest band ever",
+                "fried potato is awesome",
+                "ps is better than xbox"
+            };
+            Console.WriteLine(sentences[0]);
+            Console.WriteLine(sentences[1]);
+            Console.WriteLine(sentences[2]);
+            Console.WriteLine(sentences[3]);
+            Console.WriteLine(sentences[4]);
 
-
+            Console.WriteLine(sentences[0].Length);
+            Console.WriteLine(sentences[1].Length);
+            Console.WriteLine(sentences[2].Length);
+            Console.WriteLine(sentences[3].Length);
+            Console.WriteLine(sentences[4].Length);
 
 
 
