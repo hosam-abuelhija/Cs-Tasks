@@ -12,3 +12,10 @@ C:\Users\Orange\Desktop\C#\Cs-Tasks\Task_2\ConsoleApp3\obj\Debug\ConsoleApp3.csp
 C:\Users\Orange\Desktop\C#\Cs-Tasks\Task_2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\Orange\Desktop\C#\Cs-Tasks\Task_2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\Orange\Desktop\C#\Cs-Tasks\Task_2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Orange\Desktop\C#\Cs-Tasks\26.06.2024\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

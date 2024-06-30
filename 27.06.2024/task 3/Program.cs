@@ -81,6 +81,7 @@ namespace task_3
             //        Console.Write("*");
             //    }
             //    Console.WriteLine();
+            //}
 
             //Q7
             //int rows = 4;
@@ -93,7 +94,7 @@ namespace task_3
             //    }
             //    for (int k = 1; k <= i; k++)
             //    {
-            //        Console.Write(num);
+            //        Console.Write($"{num} ");
             //        num++;
             //    }
             //    Console.WriteLine();

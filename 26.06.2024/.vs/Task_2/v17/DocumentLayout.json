@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\Task_2\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\26.06.2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5498B0D7-804E-48BE-97FC-C06D24A52A4B}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\orange\\desktop\\c#\\cs-tasks\\task_2\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5498B0D7-804E-48BE-97FC-C06D24A52A4B}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\orange\\desktop\\c#\\cs-tasks\\26.06.2024\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5498B0D7-804E-48BE-97FC-C06D24A52A4B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\Task_2\\ConsoleApp3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\26.06.2024\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\Task_2\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Cs-Tasks\\26.06.2024\\ConsoleApp3\\Program.cs",
               "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAQwGAAAAAgAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAF0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T15:01:18.371Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

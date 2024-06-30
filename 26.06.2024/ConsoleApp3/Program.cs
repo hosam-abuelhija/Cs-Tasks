@@ -27,28 +27,28 @@ namespace Task_2
             //Console.WriteLine(signMessage);
 
             ////Task 3
-            //Console.Write("Enter the first number: ");
-            //num1 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Enter the second number: ");
-            //num2 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Enter the third number: ");
-            //int num3 = Convert.ToInt32(Console.ReadLine());
-            //int[] nums = { num1, num2, num3 };
-            //Array.Sort(nums);
-            //Console.WriteLine($"Sorted numbers: {nums[0]}, {nums[1]}, {nums[2]}");
+            // Console.Write("Enter the first number: ");
+            // int num1 = Convert.ToInt32(Console.ReadLine());
+            // Console.Write("Enter the second number: ");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            // Console.Write("Enter the third number: ");
+            // int num3 = Convert.ToInt32(Console.ReadLine());
+            // int[] nums = { num1, num2, num3 };
+            // Array.Sort(nums);
+            // Console.WriteLine($"Sorted numbers: {nums[0]}, {nums[1]}, {nums[2]}");
 
             ////Task 4
             //Console.Write("Enter the first number: ");
-            //num1 = Convert.ToInt32(Console.ReadLine());
+            //int num1 = Convert.ToInt32(Console.ReadLine());
             //Console.Write("Enter the second number: ");
-            //num2 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
             //Console.Write("Enter the third number: ");
-            //num3 = Convert.ToInt32(Console.ReadLine());
+            //int num3 = Convert.ToInt32(Console.ReadLine());
             //Console.Write("Enter the fourth number: ");
             //int num4 = Convert.ToInt32(Console.ReadLine());
             //Console.Write("Enter the fifth number: ");
             //int num5 = Convert.ToInt32(Console.ReadLine());
-            //nums = new int[] { num1, num2, num3, num4, num5 };
+            //var nums = new int[] { num1, num2, num3, num4, num5 };
             //int maxNum = nums.Max();
             //Console.WriteLine($"The maximum number is: {maxNum}");
 
@@ -68,9 +68,9 @@ namespace Task_2
 
             ////Task 7
             //Console.Write("Enter minutes: ");
-            //totalMinutes = Convert.ToInt32(Console.ReadLine());
-            //hours = totalMinutes / 60;
-            //minutes = totalMinutes % 60;
+            //int totalMinutes = Convert.ToInt32(Console.ReadLine());
+            //int hours = totalMinutes / 60;
+            //int minutes = totalMinutes % 60;
             //Console.WriteLine($"{hours} Hours, {minutes} Minutes");
 
             ////Task 8
@@ -93,12 +93,12 @@ namespace Task_2
             //Console.WriteLine(sentences[3].Length);
             //Console.WriteLine(sentences[4].Length);
 
-            int i = 0;
-            while (i < 999999999)
-            {
-                Console.WriteLine(i);
-                i++;
-            }
+            //int i = 0;
+            //while (i < 999999999)
+            //{
+            //    Console.WriteLine(i);
+            //    i++;
+            //}
 
         }
     }
