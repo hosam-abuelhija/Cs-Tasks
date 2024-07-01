@@ -7,59 +7,6 @@ using System.Threading.Tasks;
 
 namespace Task_5
 {
-
-    //int year;
-    //string type;
-    //double price;
-    //string carmake;
-    //string color;
-    //string model;
-    //string platenumber;
-
-    //public int Year
-    //{
-    //    set { year = value; }
-    //    get { return year; }
-    //}
-    //public string Type
-    //{
-    //    set { type = value; }
-    //    get { return type; }
-    //}
-    //public double Price
-    //{
-    //    set {price = value; }
-    //    get { return price; }
-    //}
-    //public string Carmake
-
-    //     {
-    //        set { carmake= value; }
-    //        get { return carmake; }
-    //    }
-
-    //public string Color
-    //{
-    //    set { color = value; }
-    //    get { return color; }
-    //}
-    //public string Model
-    // {
-    //    set { model = value; }
-    //    get { return model; }
-    //}
-    //public string Platenumber
-    //{
-    //    set {platenumber = value; }
-    //    get { return platenumber; }
-    //}
-
-    //public Car(int year, string type, double price, string carmake, string color, string model, string platenumber)
-    //{
-
-    //}
-
-
     public class Car
     {
         public int Year { get; set; }
@@ -112,10 +59,7 @@ namespace Task_5
     {
         static void Main(string[] args)
         {
-            //1.	Implement a Car class which has fields to store the car's make, year, Type, Price, model, Pallet No, and color
             Car car = new Car(1968, "cupe", 45000, " Dodge", "Black", " Charger", "27 -   1   ");
-
-            // Printing the Car object information
             Console.WriteLine(car.Carinfo());
             car.Startengine();
             car.Stoptengine();
