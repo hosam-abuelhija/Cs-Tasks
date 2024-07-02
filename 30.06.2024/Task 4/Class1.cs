@@ -128,9 +128,17 @@ namespace Task_4
             }
         }
 
+        public Person(int age, string gender, string name, string email, string id, string phone)
+        {
+            Age = age;
+            Gender = gender;
+            Name = name;
+            Email = email;
+            ID = id;
+            Phone = phone;
+        }
         public Person()
         {
-            // Default values
             age = 18;
             gender = "Male";
             name = "Default Name";
@@ -142,6 +150,10 @@ namespace Task_4
         private bool IsValidPhone(string phone)
         {
             return Regex.IsMatch(phone, @"^(077|078|079)\d{7}$");
+        }
+        public string ShowInfo()
+        {
+            return $"age: {age} gender: {gender} name:{name} email: {email} id: {id} phone: {phone}";
         }
     }
 }

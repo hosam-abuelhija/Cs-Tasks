@@ -5,3 +5,10 @@ C:\Users\Orange\source\repos\Tsak-5\Tsak-5\obj\Debug\Tsak-5.csproj.AssemblyRefer
 C:\Users\Orange\source\repos\Tsak-5\Tsak-5\obj\Debug\Tsak-5.csproj.CoreCompileInputs.cache
 C:\Users\Orange\source\repos\Tsak-5\Tsak-5\obj\Debug\Tsak-5.exe
 C:\Users\Orange\source\repos\Tsak-5\Tsak-5\obj\Debug\Tsak-5.pdb
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\bin\Debug\Tsak-5.exe.config
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\bin\Debug\Tsak-5.exe
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\bin\Debug\Tsak-5.pdb
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\obj\Debug\Tsak-5.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\obj\Debug\Tsak-5.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\obj\Debug\Tsak-5.exe
+C:\Users\Orange\Desktop\C#\Cs-Tasks\01.07.2024\Tsak-5\obj\Debug\Tsak-5.pdb
